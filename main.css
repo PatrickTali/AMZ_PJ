@@ -1,0 +1,80 @@
+body{
+    text-align: center;
+}
+.main_body{
+    border: 10px solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 5%;
+}
+#title{
+    text-align: center;
+}
+#sign{
+    text-align: left 20rem;
+    margin-left: 10%;
+}
+h5{
+    padding-bottom: 0;
+}
+#name{
+    width: 40%;
+}
+.pass{
+    padding: 5;
+    margin-top: 6;
+    padding-top: 6;
+    display: inline-flex;
+}
+#password{
+    margin-bottom:2%;
+    width: 29%
+}
+#forgot_password{
+    text-decoration: none;
+    right: 20px;
+}
+#forgot_password:hover{
+    text-decoration: underline;
+    color: antiquewhite;
+}
+#continue{
+    margin-bottom: 19px;
+    height: 25px;
+    width: 250px;
+}
+#continue:hover{
+    background-color: antiquewhite;
+}
+#help{
+    text-decoration: 0;
+}
+#help:hover{
+    text-decoration: underline;
+    color: aqua;
+}
+#account{
+    width: 50%;
+}
+#account:hover{
+    background-color: antiquewhite;
+}
+.last{
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
